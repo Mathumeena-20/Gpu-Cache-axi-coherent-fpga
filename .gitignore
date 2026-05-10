@@ -1,3 +1,7 @@
+#languages
+*.sv linguist-language=SystemVerilog
+*.v linguist-language=Verilog
+
 # Quartus
 db/
 incremental_db/
@@ -13,3 +17,5 @@ transcript
 *.log
 *.bak
 *.tmp
+
+
