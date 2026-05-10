@@ -1,0 +1,20 @@
+*SPEF "IEEE 1481-1998"
+
+*DESIGN "gpu_cache_system_top"
+
+*DATE "2026"
+
+*VENDOR "OpenAI"
+
+*D_NET n4 0.25
+*CONN
+*I U4:Y O
+*I U5:A I
+
+*CAP
+1 n4 0.10
+2 U4:Y 0.08
+3 U5:A 0.07
+
+*RES
+1 U4:Y U5:A 5.2

@@ -1,0 +1,15 @@
+# Quartus
+db/
+incremental_db/
+output_files/
+
+# ModelSim
+work/
+wok/
+*.wlf
+transcript
+
+# Temporary
+*.log
+*.bak
+*.tmp

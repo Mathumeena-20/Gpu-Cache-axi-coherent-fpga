@@ -1,0 +1,3 @@
+write -format ddc \
+      -hierarchy \
+      -output gpu_cache_system_top.ddc

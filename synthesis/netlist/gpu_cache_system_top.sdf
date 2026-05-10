@@ -1,0 +1,27 @@
+(DELAYFILE
+    (SDFVERSION "4.0")
+    (TIMESCALE 1ns)
+
+    (CELL
+        (CELLTYPE "AND2X1")
+        (INSTANCE U4)
+
+        (DELAY
+            (ABSOLUTE
+                (IOPATH A Y (0.1:0.2:0.3))
+                (IOPATH B Y (0.1:0.2:0.3))
+            )
+        )
+    )
+
+    (CELL
+        (CELLTYPE "DFFRX1")
+        (INSTANCE U2)
+
+        (DELAY
+            (ABSOLUTE
+                (IOPATH CK Q (0.2:0.3:0.5))
+            )
+        )
+    )
+)
