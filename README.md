@@ -1,5 +1,7 @@
 # 🚀 GPU Cache AXI Coherent FPGA Documentation
 
+![GitHub stars](https://img.shields.io/github/stars/Mathumeena-20/APB-UART-Controller?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Mathumeena-20/APB-UART-Controller?style=social)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/language-SystemVerilog-orange.svg)
 ![FPGA](https://img.shields.io/badge/target-CycloneV-green.svg)
