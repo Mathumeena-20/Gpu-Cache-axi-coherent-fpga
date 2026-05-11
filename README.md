@@ -177,15 +177,15 @@ Technologies used in this project:
 
 ## Block Diagram
 
-...
+---
 
-...
+---
 
 <img width="1297" height="867" alt="image" src="https://github.com/user-attachments/assets/d005795f-cc8d-4071-bbb3-61f14dda86ee" />
 
-...
+---
 
-...
+---
 
 # 🔄 MOESI Coherency Protocol
 
@@ -287,15 +287,15 @@ The memory subsystem uses AXI4-style transactions.
 
 # Cache Coherency Waveform
 
-...
+---
 
-...
+---
 
 <img width="1877" height="1002" alt="moesi_coherent_ GPU_Cache_Hierarchy_Waveform" src="https://github.com/user-attachments/assets/780f670b-c921-4c77-8229-812708c6eddf" />
 
-...
+---
 
-...
+---
 
 # AXI Waveform
 
@@ -305,49 +305,49 @@ The memory subsystem uses AXI4-style transactions.
 
 <img width="1890" height="940" alt="axi_ar_channel_timing" src="https://github.com/user-attachments/assets/36596e6c-43c8-4313-9f6b-80f7264c385d" />
 
-...
+---
 
-...
+---
 
  ### 📊 FPGA Synthesis Reports
 
  # Chip Planner
 
- ...
+---
 
- ...
+---
 
  <img width="1492" height="1000" alt="chip_planner" src="https://github.com/user-attachments/assets/945437b7-8acd-4c36-a564-50ee56fb0030" />
 
- ...
+---
 
- ...
+---
 
  ## Timing Analyzer
 
  # SetUp Time
 
- ...
+---
 
- ...
+---
 
  <img width="1587" height="681" alt="setup_time" src="https://github.com/user-attachments/assets/182b0d6d-99de-404a-a732-d1f3e083e364" />
 
- ...
+---
 
- ...
+---
 
  # Hold Time
 
- ...
+---
 
- ...
+---
 
  <img width="1591" height="662" alt="hold_time" src="https://github.com/user-attachments/assets/52c4d6ca-8037-48b4-a25a-23e8b11786c3" />
 
- ...
+---
 
- ...
+---
 
 # ⚙️ FPGA Flow
 
