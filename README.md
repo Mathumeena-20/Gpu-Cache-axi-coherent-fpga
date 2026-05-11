@@ -11,6 +11,8 @@
 ![Synthesis](https://img.shields.io/badge/synthesis-Quartus-success)
 ![STA](https://img.shields.io/badge/STA-Timing_Analyzer-yellow)
 
+---
+
 # GPU Cache AXI Coherent FPGA Documentation
 
 ## 🚀 SystemVerilog | FPGA | Cache Coherency | AXI4
